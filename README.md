@@ -1,0 +1,2 @@
+# eznotes
+Easy notes.
