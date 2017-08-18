@@ -3,7 +3,7 @@ g++ main.cpp -o notes -lncurses
 
 if [ $? -eq 0 ]
 then
-	./notes
+    ./notes
 else
-	echo "Build failed" >&2
+    echo "Build failed" >&2
 fi
